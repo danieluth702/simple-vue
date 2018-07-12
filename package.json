@@ -10,7 +10,7 @@
       "simple-vue:generate"
     ]
   },
-  "repository": "https://github.com/atom/simple-vue",
+  "repository": "https://github.com/danieluth702/simple-vue",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
