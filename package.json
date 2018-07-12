@@ -1,0 +1,20 @@
+{
+  "name": "simple-vue",
+  "main": "./lib/simple-vue",
+  "version": "0.0.0",
+  "description": "An atom plugin to generate different vue boilerplates.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "simple-vue:generate"
+    ]
+  },
+  "repository": "https://github.com/atom/simple-vue",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

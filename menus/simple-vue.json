@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Generate new vue template",
+        "command": "simple-vue:generate"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "simple-vue",
+          "submenu": [
+            {
+              "label": "Generate Vue template",
+              "command": "simple-vue:generate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
