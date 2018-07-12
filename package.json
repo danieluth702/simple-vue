@@ -1,7 +1,7 @@
 {
   "name": "simple-vue",
   "main": "./lib/simple-vue",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "An atom plugin to generate different vue boilerplates.",
   "keywords": [],
   "activationCommands": {
